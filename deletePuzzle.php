@@ -7,6 +7,8 @@
     $page="puzzles_list.php";
    // verifyLogin($page);
    //added another comment
+   //second comment
+   
 
 ?>
 <div class="container">
