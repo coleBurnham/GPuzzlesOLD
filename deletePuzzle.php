@@ -6,6 +6,7 @@
     include('header.php'); 
     $page="puzzles_list.php";
    // verifyLogin($page);
+   //added another comment
 
 ?>
 <div class="container">
