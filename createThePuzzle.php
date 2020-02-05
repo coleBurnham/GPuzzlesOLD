@@ -1,7 +1,7 @@
 <?php
 
 include_once 'db_configuration.php';
-
+//added a comment to test github changes
 if (isset($_POST['creator_name'])){
 
     echo "HERE";
